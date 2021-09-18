@@ -14,6 +14,8 @@ namespace BasketballTeamTracker.UI
         {
             Program_UI UI = new Program_UI();
             UI.Run();
+            // this is a comment
+            // another comment
         }
     }
 }
